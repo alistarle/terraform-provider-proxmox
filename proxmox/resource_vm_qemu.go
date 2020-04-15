@@ -1048,7 +1048,12 @@ func initConnInfo(
 		if sshHost == "" {
 			// parse IP address out of ipconfig0
 			ipMatch := rxIPconfig.FindStringSubmatch(d.Get("ipconfig0").(string))
-			sshHost = ipMatch[1]
+			if len(ipMatch) > 0 {
+				sshHost = ipMatch[1]
+			}
+		}
+		if sshHost == "" && d.Get("name") != nil {
+			sshHost = d.Get("name").(string)
 		}
 		// Check if we got a speficied port
 		if strings.Contains(sshHost, ":") {
