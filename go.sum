@@ -17,6 +17,8 @@ github.com/ChrisTrenkamp/goxpath v0.0.0-20170922090931-c385f95c6022 h1:y8Gs8CzNf
 github.com/ChrisTrenkamp/goxpath v0.0.0-20170922090931-c385f95c6022/go.mod h1:nuWgzSkT5PnyOd+272uUmV0dnAnAn42Mk7PiQC5VzN4=
 github.com/Telmate/proxmox-api-go v0.0.0-20191217000250-7338ae30b9b0 h1:nESOoKXlWq5ontBddqvZVUsEtFusVUYMUUtdwRZ1QwI=
 github.com/Telmate/proxmox-api-go v0.0.0-20191217000250-7338ae30b9b0/go.mod h1:OGWyIMJ87/k/GCz8CGiWB2HOXsOVDM6Lpe/nFPkC4IQ=
+github.com/Telmate/terraform-provider-proxmox v0.0.0-20200409174453-5f82f0ead07b h1:u5Vyjs3GAOSXnVPVy4LNqNC5DSrpDGxNsveUKzJr4E4=
+github.com/Telmate/terraform-provider-proxmox v0.0.0-20200409174453-5f82f0ead07b/go.mod h1:MEwzhVYAAAcafN0bsAR2ynUqg3kVMdOdSpXXH803cCE=
 github.com/Unknwon/com v0.0.0-20151008135407-28b053d5a292/go.mod h1:KYCjqMOeHpNuTOiFQU6WEcTG7poCJrUs0YgyHNtn1no=
 github.com/abdullin/seq v0.0.0-20160510034733-d5467c17e7af/go.mod h1:5Jv4cbFiHJMsVxt52+i0Ha45fjshj6wxYr1r19tB9bw=
 github.com/agext/levenshtein v1.2.1/go.mod h1:JEDfjyjHDjOF/1e4FlBE/PkbqA9OfWu2ki2W0IB5558=
@@ -25,6 +27,8 @@ github.com/agext/levenshtein v1.2.2/go.mod h1:JEDfjyjHDjOF/1e4FlBE/PkbqA9OfWu2ki
 github.com/agl/ed25519 v0.0.0-20150830182803-278e1ec8e8a6/go.mod h1:WPjqKcmVOxf0XSf3YxCJs6N6AOSrOx3obionmG7T0y0=
 github.com/alecthomas/template v0.0.0-20160405071501-a0175ee3bccc/go.mod h1:LOuyumcjzFXgccqObfd/Ljyb9UuFJ6TxHnclSeseNhc=
 github.com/alecthomas/units v0.0.0-20151022065526-2efee857e7cf/go.mod h1:ybxpYRFXyAe+OPACYpWeL0wqObRcbAqCMya13uyzqw0=
+github.com/alistarle/proxmox-api-go v0.0.0-20200415150642-0626b1a8b88e h1:tLlr8Lcqqh+7IBkYVaRsESIvYisZ/Wd19tOgyQ2zDYQ=
+github.com/alistarle/proxmox-api-go v0.0.0-20200415150642-0626b1a8b88e/go.mod h1:oSEggowJbDVi42kKaXkd5g7MaPiJf89YdO+09asesSE=
 github.com/aliyun/alibaba-cloud-sdk-go v0.0.0-20190329064014-6e358769c32a/go.mod h1:T9M45xf79ahXVelWoOBmH0y4aC1t5kXO5BxwyakgIGA=
 github.com/aliyun/aliyun-oss-go-sdk v0.0.0-20190103054945-8205d1f41e70/go.mod h1:T/Aws4fEfogEE9v+HPhhw+CntffsBHJ8nXQCwKr0/g8=
 github.com/aliyun/aliyun-tablestore-go-sdk v4.1.2+incompatible/go.mod h1:LDQHRZylxvcg8H7wBIDfvO5g/cy4/sz1iucBlc2l3Jw=

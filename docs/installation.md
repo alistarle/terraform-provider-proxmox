@@ -11,8 +11,8 @@ repository and run the following commands inside the cloned repository. Since th
 provisioner in one, there are two install commands.
 
 ```
-go install github.com/Telmate/terraform-provider-proxmox/cmd/terraform-provider-proxmox
-go install github.com/Telmate/terraform-provider-proxmox/cmd/terraform-provisioner-proxmox
+go install github.com/alistarle/terraform-provider-proxmox/cmd/terraform-provider-proxmox
+go install github.com/alistarle/terraform-provider-proxmox/cmd/terraform-provisioner-proxmox
 ```
 
 Then create the executables. They are placed in the `bin` folder inside the repository.
